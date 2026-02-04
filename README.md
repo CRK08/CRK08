@@ -20,7 +20,6 @@ and problem-solving fundamentals through consistent practice.
 ### 📚 What I'm Currently Doing
 - Practicing **frequently used Java programs**
 - Strengthening **DSA concepts step by step**
-- Building a clean and consistent **GitHub profile**
 - Solving logic-based problems regularly
 
 ---

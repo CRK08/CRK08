@@ -3,8 +3,7 @@
 🎓 Pre-final year BE CSE student  
 📍 Coimbatore, Tamil Nadu, India  
 
-I'm a Computer Science student focused on building strong programming
-and problem-solving fundamentals through consistent practice.
+Aspiring software developer seeking an opportunity to apply strong problem-solving skills and project experience in building efficient and scalable software solutions.
 
 ---
 

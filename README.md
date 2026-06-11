@@ -98,7 +98,6 @@ I'm currently in my final year and actively seeking:
 
 - **Full-Stack Developer** roles (fresher / entry-level)
 - **AI Application Developer** roles
-- **Freelance Projects** in web or mobile development
 
 I bring a strong foundation in building and deploying real applications,
 a genuine interest in AI-integrated product development, and the ability

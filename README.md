@@ -1,7 +1,7 @@
 # Hi, I'm Kaviyarasan C 👋
 
 I'm a final-year B.E. Computer Science and Engineering student at
-Hindusthan College of Engineering and Technology, Coimbatore (CGPA: 8.4),
+Hindusthan College of Engineering and Technology, Coimbatore ,
 passionate about building full-stack web applications and mobile apps
 that solve real-world problems — with AI meaningfully integrated into
 the core of the product, not just as an add-on.
